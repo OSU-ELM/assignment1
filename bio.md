@@ -8,6 +8,8 @@ My background is in Japanese language, and I used to live in Tokyo until
 mid-2013 when I moved back to the United States.
 
 During my free time I enjoy travelling, hiking, and watching movies.
+I also enjoy jogging and fencing, although due to school and work haven'
+been able to as often as I would like recently.
 
 PROGRAMMING BACKGROUND:
 I actually first started programming when I began the OSU post-bacc 
