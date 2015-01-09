@@ -10,3 +10,10 @@ mid-2013 when I moved back to the United States.
 During my free time I enjoy travelling, hiking, and watching movies.
 
 PROGRAMMING BACKGROUND:
+I actually first started programming when I began the OSU post-bacc 
+program last year. Currently I am on the 4th quarter of a 2 year track.
+Most of my experience is in the C languages, although I am excited to
+learn about HTML and other web-based programming.
+
+My favorite project was the final for CS 161 where I made a text based
+adventure game with an inventory system in the spirit of 'Zork'.
